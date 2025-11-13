@@ -1,0 +1,4 @@
+(channel
+  (version 0)
+  (name 'canal-app)
+  (url "file:///home/hugo/guix-tests/canal-app"))
